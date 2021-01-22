@@ -1,2 +1,2 @@
 # glowing-octo-fortnight
-First Repository
+Learner Notebook is Linear Regression
